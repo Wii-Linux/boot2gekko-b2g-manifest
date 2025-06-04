@@ -4,7 +4,7 @@
 
   <remote name="t2m" fetch="https://github.com/t2m-foxfone/"/>
 
-  <default remote="caf" revision="LA.BF.1.1.2_rb1.12" sync-j="4"/>
+  <default remote="aosp" revision="LA.BF.1.1.2_rb1.12" sync-j="4"/>
 
   <!-- Flame L specific things -->
   <remove-project name="platform_build"/>

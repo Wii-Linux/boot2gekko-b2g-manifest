@@ -3,7 +3,7 @@
 
   <include name="base-l-aosp.xml"/>
 
-  <default remote="caf" revision="refs/tags/android-5.1.1_r29" sync-j="4" />
+  <default remote="aosp" revision="refs/tags/android-5.1.1_r29" sync-j="4" />
 
   <project name="android_external_busybox" path="external/busybox" remote="b2g" revision="cm-12.0-fbset"/>
   <!-- Raspberry PI 2 B+ things -->

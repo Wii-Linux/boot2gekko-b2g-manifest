@@ -4,7 +4,7 @@
   <include name="base.xml"/>
 
   <default revision="ics_chocolate_rb4.2"
-           remote="caf"
+           remote="aosp"
            sync-j="4" />
 
   <!-- Gonk specific things and forks -->

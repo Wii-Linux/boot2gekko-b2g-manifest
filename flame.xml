@@ -4,7 +4,7 @@
 
   <remote name="t2m" fetch="https://github.com/t2m-foxfone/"/>
 
-  <default remote="caf" revision="jb_3.2" sync-j="4"/>
+  <default remote="aosp" revision="jb_3.2" sync-j="4"/>
 
   <!-- Flame specific things -->
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>

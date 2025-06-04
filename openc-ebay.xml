@@ -3,7 +3,7 @@
 
   <include name="base-caf-jb.xml"/>
 
-  <default remote="caf" revision="jb_3.2" sync-j="4"/>
+  <default remote="aosp" revision="jb_3.2" sync-j="4"/>
 
   <!-- Open C ebay specific things (for bluedroid conf, see bug 1196148) -->
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>

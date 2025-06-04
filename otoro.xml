@@ -4,7 +4,7 @@
   <include name="base.xml"/>
 
   <default revision="ics_chocolate_rb4.2"
-           remote="caf"
+           remote="aosp"
            sync-j="4" />
 
   <!-- Gonk specific things and forks -->
@@ -104,5 +104,5 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="platform/vendor/qcom-opensource/omx/mm-core" />
-  <project path="hardware/ril" name="platform/hardware/ril" remote="caf" revision="fe9a3f63922143b57e79ed570bab2328df8c83a5"/>
+  <project path="hardware/ril" name="platform/hardware/ril" remote="aosp" revision="fe9a3f63922143b57e79ed570bab2328df8c83a5"/>
 </manifest>

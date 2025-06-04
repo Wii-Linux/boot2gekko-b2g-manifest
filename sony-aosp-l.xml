@@ -3,12 +3,12 @@
 
   <include name="base-l-aosp.xml"/>
 
-  <default remote="caf" revision="refs/tags/android-5.1.1_r29" sync-j="4"/>
+  <default remote="aosp" revision="refs/tags/android-5.1.1_r29" sync-j="4"/>
 
   <!-- Platform common things -->
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
-  <project name="platform/hardware/qcom/bt" path="hardware/qcom/bt" remote="caf" revision="aosp-new/l-preview"/>
+  <project name="platform/hardware/qcom/bt" path="hardware/qcom/bt" remote="aosp" revision="aosp-new/l-preview"/>
   <project name="platform/hardware/qcom/audio" path="hardware/qcom/audio"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media"/>

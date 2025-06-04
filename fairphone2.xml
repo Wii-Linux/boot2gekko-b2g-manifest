@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <include name="base-l-aosp.xml"/>
-  <default remote="caf" revision="LA.BF.1.1.1_rb1.18" sync-j="4"/>
+  <default remote="aosp" revision="LA.BF.1.1.1_rb1.18" sync-j="4"/>
 
   <!-- Fairphone repos with specific changes -->
   <remove-project name="platform_frameworks_native"/>  

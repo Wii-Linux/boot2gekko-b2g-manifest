@@ -3,7 +3,7 @@
 
   <include name="base-kk-caf.xml"/>
 
-  <default remote="caf" revision="LNX.LA.3.5.2.1.1" sync-j="4"/>
+  <default remote="aosp" revision="LNX.LA.3.5.2.1.1" sync-j="4"/>
 
   <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" revision="aosp-new/master" />
   <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" revision="aosp-new/master" />
