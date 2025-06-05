@@ -5,8 +5,8 @@
 
   <default remote="aosp" revision="LNX.LA.3.5.2.1.1" sync-j="4"/>
 
-  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" revision="aosp-new/master" />
-  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" revision="aosp-new/master" />
+  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" revision="refs/tags/android-4.0.4_r2.1" />
+  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" revision="refs/tags/android-4.0.4_r2.1" />
 
   <!-- Platform common things -->
   <project name="device-shinano-common" path="device/sony/shinano-common" remote="b2g" revision="master"/>

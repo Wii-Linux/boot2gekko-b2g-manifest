@@ -14,7 +14,7 @@
   <project path="external/mesa3d" name="external_mesa3d" remote="b2g" revision="11.1-vc4-ffos" />
   <project path="external/drm" name="libdrm-rpi2b" remote="b2g" revision="distrotech-libdrm" />
 
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" clone-depth="1" revision="aosp-new/master" />
-  <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" groups="pdk,darwin,arm" clone-depth="1" revision="aosp-new/master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" clone-depth="1" revision="refs/tags/android-4.0.4_r2.1" />
+  <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" groups="pdk,darwin,arm" clone-depth="1" revision="refs/tags/android-4.0.4_r2.1" />
 
 </manifest>
